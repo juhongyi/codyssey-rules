@@ -2,6 +2,16 @@
 
 Codyssey 공식 참조 문서를 근거로 학칙, 장학금, 동료 평가, GitHub/Discord 연동, iMac 설정, Neito 기능 질문에 답하기 위한 Codex skill입니다. 답변은 번들된 `references/` 문서를 먼저 확인하고, 확인 가능한 범위 안에서 근거와 함께 한국어로 제공합니다.
 
+## 스킬 사용법
+
+Codex나 Claude Code 같은 에이전트에서 `/codyssey-rules` 뒤에 궁금한 내용을 자연어로 붙여 질문합니다.
+
+```text
+/codyssey-rules 이번 달 장학금 언제 들어와요?
+/codyssey-rules 동료평가 디코로 해도 되나요?
+/codyssey-rules 아이맥에서 한글 입력이 안 돼요
+```
+
 ## 활용 문서
 
 | 문서 | 주요 내용 | 활용되는 질문 |
